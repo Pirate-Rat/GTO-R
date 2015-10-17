@@ -1,0 +1,13 @@
+# Unity files
+*.meta
+*.unity
+*.controller
+
+# 3D models
+*.fbx
+*.max
+*.mat
+
+# Pictures
+*.tga
+*.png
