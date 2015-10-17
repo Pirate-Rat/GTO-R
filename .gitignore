@@ -1,0 +1,8 @@
+# Unity files
+*.meta
+*.unity
+
+# 3D models
+*.fbx
+*.max
+*.mat
