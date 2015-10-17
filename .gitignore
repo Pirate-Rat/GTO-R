@@ -7,3 +7,7 @@
 *.fbx
 *.max
 *.mat
+
+# Pictures
+*.tga
+*.png
